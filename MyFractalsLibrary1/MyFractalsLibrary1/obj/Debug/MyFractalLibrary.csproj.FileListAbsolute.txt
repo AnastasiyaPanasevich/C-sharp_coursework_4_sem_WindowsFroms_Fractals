@@ -1,0 +1,13 @@
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\MyFractalsLibrary1.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\MyFractalsLibrary1.pdb
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\OpenTK.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\OpenTK.pdb
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\OpenTK.xml
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\obj\Debug\MyFractalLibrary.csproj.AssemblyReference.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\obj\Debug\MyFractalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\obj\Debug\MyFractalLibrary.csproj.CopyComplete
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\obj\Debug\MyFractalsLibrary1.dll
+C:\Users\matil\OneDrive\Документы\4 sem 2023\gursky\курсач\Fractals_v1\MyFractalsLibrary1\MyFractalsLibrary1\obj\Debug\MyFractalsLibrary1.pdb

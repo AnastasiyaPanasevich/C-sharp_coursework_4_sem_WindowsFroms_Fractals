@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-05-19T03:58:20.054+03:00" lasteditedby="matil" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>О программе</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">О программе</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.00; tabstops:none;"><anchor id="docs-internal-guid-3e25bd58-7fff-a875-3840-9f838dd5e7cb" styleclass="Normal text" style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;"></anchor><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; text-decoration:none; vertical-align:baseline;">Фракталы – это геометрические фигуры, которые имеют самоподобную структуру на разных масштабах. То есть, они выглядят схожими сами с собой, при увеличении или уменьшении размера. Фракталы могут быть созданы с помощью итеративной процедуры, при которой более крупные копии фигуры состоят из более мелких копий, подобных ей.</text><br/></para>
+    <para styleclass="Normal" style="line-height:1.00; tabstops:none;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; text-decoration:none; vertical-align:baseline;">Данная программа предназначена для создания фракталов Коха, Серпинского, Дракона и дерева Пифагора.</text></para>
+  </body>
+</topic>

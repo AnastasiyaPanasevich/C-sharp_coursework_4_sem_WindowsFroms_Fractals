@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-05-19T04:05:51.479+03:00" lasteditedby="matil" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Функции программы</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Функции программы</para>
+    </header>
+    <para styleclass="Heading1"><text style="color:#000000; background-color:#ffffff;">Данная программа имеет следующий ряд функций:</text><br/></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:&apos;Segoe UI&apos;; font-size:11pt; color:#000000;">
+      <li styleclass="Normal">Изображение и вычисление фракталов солгасно изменяемым пользователем параметрам.</li>
+      <li styleclass="Normal">Выполняет анимацию точек фрактала, показывает экспортирует в Word &#160;и Excel таблицу с координатами точек фрактала.</li>
+      <li styleclass="Normal">Создает и сохраняет копию изображения в Paint</li>
+      <li styleclass="Normal">Создает таблицу и имеет возможность редактировать уже созданные таблицы с начальными данными и изображением фрактала</li>
+      <li styleclass="Normal">Показывает информацию о программе</li>
+      <li styleclass="Normal">Имеет руководство пользователя</li>
+    </list>
+  </body>
+</topic>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="450618506708447" build="ALL" modified="2023-05-16T01:23:23.727Z" icon="0" href="Fractals">
+    <caption translate="true">Fractals</caption>
+  </topicref>
+  <topicref type="topic" id="450621895605351" build="ALL" modified="2023-05-16T01:23:23.942Z" icon="0" href="-">
+    <caption translate="true">О программе</caption>
+  </topicref>
+  <topicref type="topic" id="450619100715729" build="ALL" modified="2023-05-19T03:58:57.452Z" icon="0" href="-2">
+    <caption translate="true">Функции программы</caption>
+  </topicref>
+</map>
